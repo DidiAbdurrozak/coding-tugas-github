@@ -1,8 +1,8 @@
 # coding-tugas-github
-package game;
+package Logika_percobaan;
 import java.util.Scanner;
 
-public class Game {
+public class Logika_percobaan {
 public static void main(String[] args) {
    
     int percobaan1, percobaan2, percobaan3, percobaan4, percobaan5, percobaan6, percobaan7;
